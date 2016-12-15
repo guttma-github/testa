@@ -1,0 +1,6 @@
+xsum=0
+FOR i=1:5
+xsum=xsum + i**3
+endFOR
+kTemp=.4
+THETASS=.5
